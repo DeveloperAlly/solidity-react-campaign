@@ -15,3 +15,4 @@ To use this project.
 - Then deploy to infura >node deploy.js (make sure to get your deployment address from the console output for the .env file)
 - Navigate to root folder. >npm run dev
 
+(yes this readme leaves a lot to be desired - feel free to help fix it :P)
